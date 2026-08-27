@@ -1,0 +1,23 @@
+{
+  "totalColleges": 362,
+  "totalCourses": 2134,
+  "totalPagesProcessed": 1566,
+  "cities": {
+    "Amravati": 29,
+    "Nagpur": 39,
+    "Chhatrapati Sambhajinagar": 28,
+    "Nanded": 11,
+    "Mumbai": 57,
+    "Ratnagiri": 6,
+    "Navi Mumbai": 13,
+    "Jalgaon": 15,
+    "Nashik": 32,
+    "Ahmednagar": 9,
+    "Pune": 80,
+    "Satara": 9,
+    "Sangli": 8,
+    "Kolhapur": 14,
+    "Solapur": 12
+  },
+  "extractedAt": "2026-08-27 16:13:48"
+}
